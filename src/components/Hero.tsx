@@ -18,7 +18,7 @@ const Hero = () => {
               <div className="w-full h-full rounded-full bg-white flex items-center justify-center">
                 <div className="w-40 h-40 rounded-full bg-gradient-to-r from-blue-500 to-purple-600 flex items-center justify-center text-white text-4xl font-bold">
                   <img
-                    src="/public/z4946267305538_3a8b8adc826ec0e13b8780f7992465a5.jpg"
+                    src="https://res.cloudinary.com/ddmgchwpw/image/upload/v1751127855/z4946267305538_3a8b8adc826ec0e13b8780f7992465a5_fi7ytn.jpg"
                     alt="Avatar of Trần Minh Quân"
                     className="w-38 h-38 rounded-full object-cover"
                   />

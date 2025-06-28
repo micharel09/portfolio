@@ -24,7 +24,7 @@ const CVDownload = ({
     try {
       // Create a link element and trigger download
       const link = document.createElement('a')
-      link.href = '/cv-tran-minh-quan.pdf'
+      link.href = 'https://res.cloudinary.com/ddmgchwpw/image/upload/v1751127854/TRAN-MINH-QUAN_qdw423.pdf'
       link.download = 'CV-Tran-Minh-Quan.pdf'
       link.target = '_blank'
       
