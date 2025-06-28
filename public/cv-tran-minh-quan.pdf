@@ -1,0 +1,126 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 1000
+>>
+stream
+BT
+/F1 24 Tf
+50 750 Td
+(TRAN MINH QUAN) Tj
+0 -30 Td
+/F1 14 Tf
+(Web Developer Internship) Tj
+0 -20 Td
+(FPT University - Software Engineering) Tj
+0 -40 Td
+/F1 12 Tf
+(Email: quanmse162060@fpt.edu.vn) Tj
+0 -15 Td
+(Phone: 0379 442 860) Tj
+0 -15 Td
+(Location: District 9, Ho Chi Minh City) Tj
+0 -15 Td
+(GitHub: github.com/micharel09) Tj
+0 -40 Td
+/F1 16 Tf
+(OBJECTIVE) Tj
+0 -20 Td
+/F1 12 Tf
+(Seeking to obtain a Web/App Developer Intern position within an) Tj
+0 -15 Td
+(organization that will provide additional learning opportunities, utilizing) Tj
+0 -15 Td
+(education and strong interpersonal and organization skills.) Tj
+0 -40 Td
+/F1 16 Tf
+(EDUCATION) Tj
+0 -20 Td
+/F1 12 Tf
+(FPT University campus HCM) Tj
+0 -15 Td
+(Bachelor of Software Engineering | 2025 - Present | GPA: 7.3/10) Tj
+0 -40 Td
+/F1 16 Tf
+(PROJECT EXPERIENCE) Tj
+0 -20 Td
+/F1 14 Tf
+(EIGAKAN - REALTIME MOVIE SHARING PLATFORM) Tj
+0 -15 Td
+/F1 12 Tf
+(January 2025 - May 2025) Tj
+0 -15 Td
+(Technologies: SQL Server, C# .NET, ReactJS, TailwindCSS, Figma) Tj
+0 -30 Td
+/F1 14 Tf
+(RBN EVENT - Service connection for event organizers) Tj
+0 -15 Td
+/F1 12 Tf
+(September 2024 - November 2024) Tj
+0 -15 Td
+(Technologies: SQL Server, C# .NET, RazorPage, TailwindCSS, Figma) Tj
+0 -30 Td
+/F1 14 Tf
+(Zoo Management - GROUP WORK) Tj
+0 -15 Td
+/F1 12 Tf
+(October 2023 - December 2023) Tj
+0 -15 Td
+(Technologies: SQL Server, C# .NET, RazorPage, TailwindCSS, Figma) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000274 00000 n 
+0000001326 00000 n 
+trailer
+<<
+/Size 6
+/Root 1 0 R
+>>
+startxref
+1404
+%%EOF
