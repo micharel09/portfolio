@@ -15,7 +15,7 @@ interface Project {
 }
 
 const Projects = () => {
-  const projects = [
+  const projects: Project[] = [
     {
       title: "EIGAKAN - Realtime Movie Sharing Platform",
       description: "Platform chia sẻ phim trực tuyến với nhiều tính năng cho người dùng và quản trị viên. Dự án tốt nghiệp nhóm với đầy đủ tính năng của một ứng dụng thương mại.",
