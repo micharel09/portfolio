@@ -49,7 +49,7 @@ const Hero = () => {
           {/* Description */}
           <p className="text-lg text-gray-400 mb-8 max-w-2xl mx-auto leading-relaxed">
             Sinh viên Software Engineering tại FPT University với kinh nghiệm phát triển các ứng dụng web
-            sử dụng React, Node.js, và các công nghệ hiện đại. Đam mê tạo ra những sản phẩm có giá trị thực tế.
+            sử dụng React, C#, và các công nghệ hiện đại. Đam mê tạo ra những sản phẩm có giá trị thực tế.
           </p>
 
           {/* CTA Buttons */}
